@@ -10,18 +10,18 @@ const site = {
     "أدرس هندسة الحاسب في جامعة الطائف، وأتعلم البرمجة بالتجربة والتطبيق. أهتم بتطوير البرمجيات والذكاء الاصطناعي، وأحب أن أترك أثرًا واضحًا فيما أشارك فيه.",
   about:
     'طالبة في السنة الثالثة بهندسة الحاسب، كلية الحاسبات وتقنية المعلومات، جامعة الطائف. أتعلم من خلال التجربة والتطبيق، وأدرس لغة <span dir="ltr">C++</span> منذ مستويين دراسيين وأستخدمها في معظم واجباتي. أشارك في IEEE Taif University وTCC Taif، وأجمع بين الجانب التقني وصناعة المحتوى والعمل الجماعي.',
-  email: "Salma00615@gmail.com",
+  email: "sa.Alghraibi@gmail.com",
 
   // حسابات التواصل: ضعي الرابط في url وتظهر تلقائيًا في الشريط العلوي.
   // وإذا تركتيه فارغًا ما يظهر شيء.
   socials: [
-    { name: "X", url: "" },
-    { name: "LinkedIn", url: "" },
-    { name: "GitHub", url: "" },
+    { name: "X", url: "https://x.com/s6sny?s=11" },
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/salma-alghraibi/" },
+    { name: "GitHub", url: "https://github.com/salma-alghraibi" }
   ],
 
   nav: [
-    { id: "about", label: "عني" },
+    { id: "about", label: "نبذة عني" },
     { id: "works", label: "أعمالي" },
     { id: "activities", label: "مشاركاتي" },
     { id: "skills", label: "مهاراتي" },
